@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA9BDC2B-C23D-4552-8018-6920B082C700</string>
+	<key>IDESourceControlProjectName</key>
+	<string>7.14-HTML_object-c_interaction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>b6fe10a5-6de3-4e84-99c5-f8411318d3a9++4580</key>
+		<string>http://pm.xywy.com/svn/xywy/iOS_shareDemo/share/H5%252525E5%25252592%2525258C%252525E5%2525258E%2525259F%252525E7%25252594%2525259F%252525E4%252525BA%252525A4%252525E4%252525BA%25252592</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>7.14-HTML_object-c_interaction.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>b6fe10a5-6de3-4e84-99c5-f8411318d3a9++4580</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>b6fe10a5-6de3-4e84-99c5-f8411318d3a9++4580</key>
+		<string>http://pm.xywy.com/svn/xywy</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://pm.xywy.com/svn/xywy/iOS_shareDemo/share/H5%252525E5%25252592%2525258C%252525E5%2525258E%2525259F%252525E7%25252594%2525259F%252525E4%252525BA%252525A4%252525E4%252525BA%25252592/7.14-HTML_object-c_interaction.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>b6fe10a5-6de3-4e84-99c5-f8411318d3a9++4580</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>b6fe10a5-6de3-4e84-99c5-f8411318d3a9++4580</string>
+			<key>IDESourceControlWCCName</key>
+			<string>H5%E5%92%8C%E5%8E%9F%E7%94%9F%E4%BA%A4%E4%BA%92</string>
+		</dict>
+	</array>
+</dict>
+</plist>

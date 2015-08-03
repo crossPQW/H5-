@@ -1,0 +1,19 @@
+<html>
+<head>
+    <meta xmlns="http://www.w3.org/1999/xhtml" http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>这是一个示例html文件</title>
+    <script Type='text/javascript'>
+        function clickme() {
+            alert('点击按钮了！');
+        }
+    </script>
+</head>
+<body>
+	<h1>欢迎欢迎！</h1>
+  <a href="http://m.baidu.com">度娘</a> <br />
+  <!-- 自定义协议与OC进行交互 -->
+  <a href="ocFunc://showMessage/原生和html5交互">在这里设置显示的标签信息</a>
+  <!-- 自定义协议与OC进行交互 -->
+  <a href="ocFunc://goBack/返回到首页">点击返回到首页</a>
+</body>
+</html>
